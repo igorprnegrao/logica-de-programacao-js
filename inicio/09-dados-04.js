@@ -2,9 +2,9 @@ let a = 3;
 
 a = a + 10;
 
-console.log(a)
+console.log(a);
 
-const b = 3
+const b = 3;
 
-b = b + 10
+b = b + 10;
 
