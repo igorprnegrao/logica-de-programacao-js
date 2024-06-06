@@ -46,8 +46,15 @@ console.log(resultadoEOu2)
 
 console.log('====== != =======')
 
-console.log(true != true)
-console.log(true != false)
-console.log(false != true)
-console.log(false != false)
+console.log('verdadeiro diferente de verdadeiro' + true != true)
+console.log('verdadeiro diferente de falso' + true != false)
+console.log('verdadeiro diferente de falso' + false != true)
+console.log('falso diferente de falso' + false != false)
+
+console.log('====== !not =======')
+
+console.log('não verdadeiro = ' + !true)
+console.log('não falso = ' + !false)
+
+
 
