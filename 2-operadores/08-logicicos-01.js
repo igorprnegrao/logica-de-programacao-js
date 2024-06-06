@@ -44,3 +44,10 @@ let resultadoEOu2 = 'Vai pro shopping? False || False = ';
 resultadoEOu2 += temDinheiroOu2 || estaEnsolaradoOu2
 console.log(resultadoEOu2)
 
+console.log('====== != =======')
+
+console.log(true != true)
+console.log(true != false)
+console.log(false != true)
+console.log(false != false)
+
